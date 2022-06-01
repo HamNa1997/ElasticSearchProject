@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nazih.elasticsearchproject.ElasticSearchProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.68 s - in com.nazih.elasticsearchproject.ElasticSearchProjectApplicationTests

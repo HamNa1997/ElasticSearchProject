@@ -1,0 +1,8 @@
+#
+#Wed Jun 01 10:15:23 CEST 2022
+com.nazih.elasticsearchproject.Configuration.Config=org.springframework.stereotype.Component
+com.nazih.elasticsearchproject.ElasticSearchProjectApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.nazih.elasticsearchproject.Repo.resumeRepository=org.springframework.data.repository.Repository
+com.nazih.elasticsearchproject.services.Resumeservice=org.springframework.stereotype.Component
+com.nazih.elasticsearchproject.doc.Resume=org.springframework.data.annotation.Persistent
+com.nazih.elasticsearchproject.Controller.Controller=org.springframework.stereotype.Component
